@@ -1,4 +1,4 @@
-Hi 👋,I'm Yurii..
+Hi 👋,I'm Kyle..
 
 Full Stack Developer
 ---------------------
