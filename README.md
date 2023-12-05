@@ -1,11 +1,10 @@
-Hi 👋,I'm Kyle..
+Hi 👋
 
 Full Stack Developer
 ---------------------
 
 Mission-driven full stack developer with a passion for thoughtful UI design, collaboration, and teaching. As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world.That's why I’m excited to make a big impact at a high growth company
 
-* 🌍  I'm based in nigeria.
 * ✉️  You can contact me at [Sunshineju0213@gmail.com](Sunshineju0213@gmail.com)
 * 🚀  I'm currently working on **A tool to solve my day to day problems**
 * 🧠  I'm learning Software Design Patterns, Prisma , Golang, Typescript, DSA
