@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-I am a Senior Full-Stack Engineer.
-I have over 8+ years of experience in Full stack & Blockchain technology development and IT consult.
-
-Passionate about launching, developing, and maintaining web and mobile projects requiring a
-broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
-back-end development, mobile app development, system and application security, auditing
-and project management and blockchain technology.
+I am a Senior Full-Stack Blockchain Engineer.
+I have over 7+ years of experience in Full stack & Blockchain technology development and IT consult.
 
 #### Web & Mobile Development
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
